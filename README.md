@@ -2,7 +2,7 @@
 
 This is a web application developed as a Minor Project for the Web Development using Node.js course. The TODO List app allows users to create and manage their to-do lists, add tasks to each list, and store them in a database.
 
-#FEATURES USED
+`#FEATURES USED`
 
 * Create multiple to-do lists
 * Add tasks to each list
@@ -11,30 +11,28 @@ This is a web application developed as a Minor Project for the Web Development u
 * Assign labels to tasks
 * Store tasks and lists in a database
 
-#TECHNOLOGIES USED
+`#TECHNOLOGIES USED`
 
 The following technologies and frameworks were used to develop this TODO List app:
-
 * Node.js
 * Express.js
 * MongoDB
 * HTML/CSS
 * JavaScrip
 
-#INSTALLATION
+`#INSTALLATION`
 
 
 To run the TODO List app on your local machine, follow these steps:
-
-1. Clone the repository: git clone <repository-url>
-2. Navigate to the project directory: cd TODO_App_Web_Development_Node.js_Minor_Project
-3. Install the dependencies: npm install
-4. Start the server: npm start
-5. Open your web browser and visit: http://localhost:3000
+1. Clone the repository: `git clone <https://github.com/naveenmaurya7705/Major_Project_1>`
+2. Navigate to the project directory: `cd TODO_App_Web_Development_Node.js_Minor_Project`
+3. Install the dependencies: `npm install`
+4. Start the server: `npm start`
+5. Open your web browser and visit: `http://localhost:3000`
 
 Make sure you have Node.js and MongoDB installed on your machine before running the application.
 
-#USAGE
+`#USAGE`
 
 1. Create a new to-do list by clicking on the "New List" button.
 2. Enter a name for the list and click "Create List".
@@ -47,8 +45,8 @@ Make sure you have Node.js and MongoDB installed on your machine before running 
 
 Feel free to explore and add additional features to enhance your TODO List app
 
-#CONTRIBUTOR
+`#CONTRIBUTOR`
 
-NAVEEN MAURYA 
+`NAVEEN MAURYA` 
 
 If you would like to contribute to this project, please feel free to submit pull requests or raise issues in the https://github.com/naveenmaurya7705/Major_Project_1.
